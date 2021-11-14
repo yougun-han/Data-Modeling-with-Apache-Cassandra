@@ -43,7 +43,7 @@ Below is an example of the data
 </pre>
 
 ### Run Program <a name="RunProgram"></a>
-1. Run a local Apache-Cassandra.
+1. Run a local Apache-Cassandra server.
 
     Refer to [this video](https://www.youtube.com/watch?v=hJxlkHafYsQ) for installing and running Apache-Cassandra in window environment.
 2. Run lines in Main.ipynb sequentially.
