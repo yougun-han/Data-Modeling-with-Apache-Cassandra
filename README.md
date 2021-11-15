@@ -37,9 +37,11 @@ Below is an example of the data
 <pre>
 - Data-Modeling-with-Apache-Cassandra
 |- event_data           # It contains song play data (event files)
+|- images               # It contains image files used in Main.ipynb
 |- Images_For_README    # It contains image files used in README
 |- README               # Readme file
 |- Main.ipynb           # Main project file.  
+|- event_datafile_new.csv   # Processed file by "Main.ipynb"
 </pre>
 
 ### Run Program <a name="RunProgram"></a>
